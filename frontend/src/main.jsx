@@ -16,7 +16,7 @@ const topics = [
 
 function App() {
   const [messages, setMessages] = useState([
-    { role: 'assistant', content: '¡Hola! Soy FISICAI ⚛️\\nTu tutor especializado en Física. Puedes preguntarme sobre teoría o enviarme un ejercicio escrito. Te explicaré los procedimientos paso a paso.' }
+    { role: 'assistant', content: '¡Hola! Soy FISICAI, Tu tutor especializado en Física. Puedes preguntarme sobre teoría o enviarme un ejercicio escrito. Te explicaré los procedimientos paso a paso.' }
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
