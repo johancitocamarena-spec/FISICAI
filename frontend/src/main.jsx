@@ -3,12 +3,6 @@ import { createRoot } from 'react-dom/client'
 import './style.css'
 
 const topics = [
-  ['01', 'Magnitudes y vectores', 'Escalares, vectoriales, componentes y operaciones'],
-  ['02', 'Cinemática', 'MRU, MRUV, caída libre y movimiento parabólico'],
-  ['03', 'Movimiento circular', 'Velocidad angular, período y aceleración centrípeta'],
-  ['04', 'Dinámica', 'Fuerzas y leyes de Newton'],
-  ['05', 'Trabajo y energía', 'Trabajo mecánico y conservación de energía'],
-  ['06', 'Fluidos', 'Hidrostática, Arquímedes, Pascal e hidrodinámica'],
   ['01', 'Termodinámica', 'Calor, temperatura y principios térmicos'],
   ['02', 'Electricidad y magnetismo', 'Carga, corriente, circuitos y campos magnéticos'],
   ['03', 'Luz y óptica', 'Reflexión, refracción y formación de imágenes'],
