@@ -9,9 +9,9 @@ const topics = [
   ['04', 'Dinámica', 'Fuerzas y leyes de Newton'],
   ['05', 'Trabajo y energía', 'Trabajo mecánico y conservación de energía'],
   ['06', 'Fluidos', 'Hidrostática, Arquímedes, Pascal e hidrodinámica'],
-  ['07', 'Termodinámica', 'Calor, temperatura y principios térmicos'],
-  ['08', 'Electricidad y magnetismo', 'Carga, corriente, circuitos y campos magnéticos'],
-  ['09', 'Luz y óptica', 'Reflexión, refracción y formación de imágenes'],
+  ['01', 'Termodinámica', 'Calor, temperatura y principios térmicos'],
+  ['02', 'Electricidad y magnetismo', 'Carga, corriente, circuitos y campos magnéticos'],
+  ['03', 'Luz y óptica', 'Reflexión, refracción y formación de imágenes'],
 ]
 
 function App() {
